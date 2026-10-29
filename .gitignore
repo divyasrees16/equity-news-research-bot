@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+myenv/
+.env
+
+# Generated data (rebuilt from the URLs you enter)
+*.pkl
+
+# Tools / OS
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
