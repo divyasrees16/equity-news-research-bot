@@ -31,7 +31,6 @@ Python · Streamlit · scikit-learn · NLTK · BeautifulSoup · Requests
 equity-news-research-bot/
 ├── main.py                 # Streamlit user interface
 ├── research.py             # Core logic: fetch, chunk, index, search
-├── tests/test_research.py  # Unit tests
 ├── requirements.txt        # Runtime dependencies
 └── .gitignore
 ```
